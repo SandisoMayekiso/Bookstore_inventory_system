@@ -22,6 +22,7 @@ This project allows users to manage books visually via buttons, forms, and listb
 
 ## ⚙️ How to Run
 ```bash
-git clone https://github.com/YOUR-USERNAME/Bookstore-Inventory-System-GUI.git
+git clone https://github.com/SandisoMayekiso/Bookstore-Inventory-System-GUI.git
 cd Bookstore-Inventory-System-GUI
 python bookstore_gui.py
+
