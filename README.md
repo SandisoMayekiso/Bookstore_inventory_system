@@ -26,3 +26,4 @@ git clone https://github.com/SandisoMayekiso/Bookstore-Inventory-System-GUI.git
 cd Bookstore-Inventory-System-GUI
 python bookstore_gui.py
 
+
